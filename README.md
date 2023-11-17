@@ -1,7 +1,7 @@
 # Verseny
 ## Futtatás
-indísuk el az xampp control panelt és indítsuk el a MYsql-t
-git bash-el belépünk a projekt mappájába és a kövtkező parancsotak kell futtatni
+indítsuk el az xampp control panelt és indítsuk el a MYsql-t
+git bash-el belépünk a projekt mappájába és a kövtkező parancsotak kell futtatni:
 - php artisan migrate
 - php artisan db:seed
 - php artisan serve
